@@ -5,7 +5,8 @@
 
 Instructions for this repo:
 combined.ipynb is the chief animation notebook which has the full Euler and RK4 animation with energy plots. It can be run as is or the initial conditions modified. It works best on Jupyter notebook because of the animation function, which would be different for a non-Jupyter environment. 
-
+All the codes can be run by themselves.
+test.py and draft files were early drafts and have been incorporated into combined.ipynb. Value_Deviance.ipynb has another visualization of the problem. 
 
 Nityaansh Parekh
 
