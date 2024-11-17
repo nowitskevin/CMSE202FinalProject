@@ -8,7 +8,11 @@ combined.ipynb is the chief animation notebook which has the full Euler and RK4 
 
 
 Nityaansh Parekh
+
 Kevin Eisenberg - class definition, Euler's method animation with energy graph 
+
 Dakshesh Ravi - Lyapunov exponent calculation
+
 Jose Delgado
+
 Fatih Imamoglu - RK4 animation, combining Euler and RK4 into one combined.ipynb
