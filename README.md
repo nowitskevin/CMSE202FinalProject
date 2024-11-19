@@ -8,12 +8,8 @@ combined.ipynb is the chief animation notebook which has the full Euler and RK4 
 All the codes can be run by themselves.
 test.py and draft files were early drafts and have been incorporated into combined.ipynb. Value_Deviance.ipynb has another visualization of the problem. 
 
-Nityaansh Parekh - slides presentation
-
-Kevin Eisenberg - class definition, Euler's method animation with energy graph 
-
-Dakshesh Ravi - Lyapunov exponent calculation
-
-Jose Delgado - added another visualization of deviance (comparing error) 
-
-Fatih Imamoglu - RK4 animation, combining Euler and RK4 into one combined.ipynb
+Kevin: Simulating the 3-Body Problem with Euler's Method, Plotting energy, describing classes. 
+Fatih: Simulating the 3-Body Problem with Runge-Kutta Order Four, Combing RK-4 and the Euler method into one Python notebook for ease of comparison.
+Dakshesh: Calculating Lyapunov exponent for quantifying stability of the orbit.
+Nityaansh: Visualizing error between RK-4 and Euler outputs. Presentation slides. 
+Jose: Calculating MSE, MAE, Cumulative Euclidean Distance, and Standard Deviation between RK-4 and Euler outputs.
