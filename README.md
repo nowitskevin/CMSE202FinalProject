@@ -9,7 +9,12 @@ All the codes can be run by themselves.
 test.py and draft files were early drafts and have been incorporated into combined.ipynb. Value_Deviance.ipynb has another visualization of the problem. 
 
 Kevin: Simulating the 3-Body Problem with Euler's Method, Plotting energy, describing classes. 
+
 Fatih: Simulating the 3-Body Problem with Runge-Kutta Order Four, Combing RK-4 and the Euler method into one Python notebook for ease of comparison.
+
 Dakshesh: Calculating Lyapunov exponent for quantifying stability of the orbit.
+
 Nityaansh: Visualizing error between RK-4 and Euler outputs. Presentation slides. 
+
 Jose: Calculating MSE, MAE, Cumulative Euclidean Distance, and Standard Deviation between RK-4 and Euler outputs.
+
